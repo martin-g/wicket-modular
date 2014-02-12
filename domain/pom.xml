@@ -3,11 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>wicket-project</artifactId>
-        <groupId>lb.ba.ad</groupId>
+        <groupId>lt.lt</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    
-    <groupId>lb.ba.ad</groupId>
     <artifactId>domain</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
